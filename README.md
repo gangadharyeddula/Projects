@@ -99,10 +99,7 @@ GNova-Fitness/
 │
 ├── index.html
 ├── style.css
-├── assets/
-│   ├── images/
-│   ├── icons/
-│   └── screenshots/
+├── images
 ├── README.md
 └── LICENSE
 ```
