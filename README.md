@@ -197,15 +197,15 @@ Planned improvements include:
 
 ## Desktop View
 
-(Add desktop screenshot here)
+![alt text](<Screenshot 2026-06-12 235639.png>)
 
 ## Tablet View
 
-(Add tablet screenshot here)
+![alt text](<Screenshot 2026-06-12 235600.png>)
 
 ## Mobile View
 
-(Add mobile screenshot here)
+![alt text](<Screenshot 2026-06-12 235527.png>)
 
 ---
 
